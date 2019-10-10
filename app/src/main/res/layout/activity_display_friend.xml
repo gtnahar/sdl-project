@@ -31,7 +31,8 @@
         android:src="@android:drawable/ic_input_add"
         android:layout_margin="4dp"
         android:layout_alignParentEnd="true"
-        android:tint="@android:color/holo_blue_light"
+        android:tint="@android:color/white"
+        android:backgroundTint="#E60A2A50"
         android:text="Button"/>
     <ListView
         android:id="@+id/list_friend"

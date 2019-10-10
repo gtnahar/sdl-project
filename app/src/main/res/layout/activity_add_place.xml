@@ -16,7 +16,7 @@
         android:layout_height="64dp"
         android:src="@android:drawable/ic_input_add"
         app:elevation="5dp"
-        app:backgroundTint="#60AFFE"
+        app:backgroundTint="#E60A2A50"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
