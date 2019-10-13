@@ -10,7 +10,7 @@
         android:textSize="20dp"
         android:text="name"
         android:gravity="center"
-        android:textColor="#3232CD"
+        android:textColor="#E60A2A50"
         />
 
     <TextView
@@ -26,7 +26,7 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
-        android:background="#d3d3d3"
+        android:background="#E60A2A50"
         android:layout_below="@+id/name"></View>
 
 </RelativeLayout>

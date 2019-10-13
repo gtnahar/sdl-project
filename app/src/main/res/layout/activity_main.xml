@@ -17,11 +17,12 @@
         android:layout_height="64dp"
         android:src="@android:drawable/ic_menu_help"
         app:elevation="5dp"
-        app:backgroundTint="@android:color/transparent"
+        app:backgroundTint="#E60A2A50"
         android:layout_alignParentRight="true"
         android:layout_marginBottom="50dp"
         android:layout_marginRight="5dp"
         app:borderWidth="0dp"
+
          />
     <Button
         android:layout_width="match_parent"
@@ -33,7 +34,7 @@
         android:textSize="23sp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:background="#50000000"
+        android:background="#E60A2A50"
         />
 
     <Button
@@ -42,7 +43,7 @@
         android:text="day2day expenses"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#50000000"
+        android:background="#E60A2A50"
         android:textColor="@drawable/mainbuttontext"
         android:textSize="23sp"
         android:layout_marginBottom="70dp"
